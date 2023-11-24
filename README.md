@@ -1,2 +1,2 @@
 # calculator_app
-Simple calculator app with standard functions
+Calculator app with standard functions using Swing
